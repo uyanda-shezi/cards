@@ -1,3 +1,3 @@
 # cards
 
-Repo fro the cards service
+Repo for the cards service
